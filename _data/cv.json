@@ -1,68 +1,118 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Abhinav Roy",
+    "email": "abhinav.roy@niser.ac.in",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://abhinavroy99.github.io",
+    "summary": "Physics Graduate Student at NISER specializing in Cosmological Simulations and Astrophysics",
     "location": {
-      "address": "",
+      "address": "National Institute of Science Education and Research",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Bhubaneswar",
+      "countryCode": "IN",
+      "region": "Odisha"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Abhinav Roy",
+        "url": "https://orcid.org/0009-0004-5627-7196"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "AbhinavRoy99",
+        "url": "https://github.com/AbhinavRoy99"
+      },
+      {
+        "network": "Medium",
+        "username": "Abhinav",
+        "url": "https://assassinbywords.medium.com/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "NISER",
+      "position": "M.Sc. Thesis Project",
+      "website": "",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "Evolution of Gas & DM Profiles of Galactic Halos in Cosmological Simulations",
+      "highlights": [
+        "Studying how AGN feedback influences the spatial distribution of gas and dark matter in galactic halos using the NINJA cosmological simulation suite",
+        "Classifying halos into Main Sequence and Feedback Dominated types based on black hole activity",
+        "Analyzing the dissociation of gas and dark matter and its link to quenching of star formation"
+      ]
+    },
+    {
+      "company": "CSIR-NPL",
+      "position": "Lab Intern",
+      "website": "",
+      "startDate": "2022-07",
+      "endDate": "2022-07",
+      "summary": "Thin Films & Different Growth Methods",
+      "highlights": [
+        "Focused on thin films including growth, deposition (R.F. Magnetron Sputtering, Spray Pyrolysis, Sol-Gel), and characterization"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "National Institute of Science Education and Research (NISER)",
+      "area": "Integrated M.Sc. in Physics",
+      "studyType": "Master's",
+      "startDate": "2020",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "Shell Scripting", "C/C++"]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced", 
+      "keywords": ["MP-GADGET", "GADGET-4", "ROCKSTAR", "LaTeX"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Advanced",
+      "keywords": ["Astrophotography", "Reflective Telescope Handling & Maintenance", "6\" and 8\" Newtonian Telescopes", "11\" Schmidt-Cassegrain Hybrid Telescope"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency" 
+    }
+  ],
+  "interests": [
+    {
+      "name": "Writing",
+      "keywords": ["Poetry", "Essays", "Short Stories", "Medium Blog"]
+    },
+    {
+      "name": "Leisure Activities", 
+      "keywords": ["Music", "Sitcoms", "Cartoons", "Anime", "Novels", "Comics", "Mangas", "Manhwas"]
+    },
+    {
+      "name": "Other Interests",
+      "keywords": ["Technology", "Science", "Cooking", "Recipe Experimentation"]
+    }
+  ],
   "references": [],
   "publications": [
     {

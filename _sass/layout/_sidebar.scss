@@ -42,7 +42,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif;
   }
 
   h3, h4 {
@@ -110,6 +110,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-family: 'Source Code Pro', $monospace;
 
   @include breakpoint($large) {
     display: block;
@@ -128,8 +129,9 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: 'Source Code Pro', $monospace;
   font-size: $type-size-5;
+  font-weight: 700;
 }
 
 .sidebar .author__desktop {
@@ -141,6 +143,7 @@
 
 .author__pronouns {
   margin: 0;
+  font-family: 'Source Code Pro', $monospace;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -150,6 +153,7 @@
 
 .author__bio {
   margin: 0;
+  font-family: 'Source Code Pro', $monospace;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -161,7 +165,8 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: 'Source Code Pro', $monospace;
+  font-weight: 700;
   z-index: 10;
   position: relative;
   cursor: pointer;
